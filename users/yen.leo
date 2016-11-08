@@ -130,7 +130,7 @@
 </v>
 </v>
 <v t="yen.20161108231114.1" a="E"><vh>@path py</vh>
-<v t="yen.20161108231122.1"><vh>@edit scrum-1.py</vh></v>
+<v t="yen.20161108231122.1"><vh>@edit scrum.py</vh></v>
 </v>
 <v t="ibm.20161021132054.1" a="E"><vh>@path content</vh>
 <v t="ibm.20161021132115.1"><vh>@edit 20161106.md</vh></v>
